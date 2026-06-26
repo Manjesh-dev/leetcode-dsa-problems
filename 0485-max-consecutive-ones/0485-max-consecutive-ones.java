@@ -5,11 +5,14 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             if(nums[i] != 0){
                 count++;
-            }
-            if(nums[i] == 0){
+                maxOne = Math.max(maxOne, count); 
+            }else{
                 count = 0;
             }
-            maxOne = Math.max(maxOne, count);   
+            // if(nums[i] == 0){
+            //     count = 0;
+            // }
+            // maxOne = Math.max(maxOne, count);   
         }
         return maxOne;  
     }
