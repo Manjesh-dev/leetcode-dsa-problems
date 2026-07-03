@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -39,16 +40,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
