@@ -11,8 +11,6 @@ class Solution {
         int right = t.length()-1;
         while (left<right) {
             if(t.charAt(left) != t.charAt(right)){
-                left++;
-                right--;
                 return false;
             }
             left++;
