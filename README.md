@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
