@@ -4,9 +4,10 @@ class Solution {
 
         for (int i = 0; i < nums.length; i++) {
             int digitCount = 0;
-            while (nums[i] > 0) {
+            int temp = nums[i];
+            while (temp > 0) {
                 digitCount++;
-                nums[i] = nums[i] / 10;                
+                temp = temp / 10;                
             }
             if(digitCount % 2 == 0){
                 evenNo++;
