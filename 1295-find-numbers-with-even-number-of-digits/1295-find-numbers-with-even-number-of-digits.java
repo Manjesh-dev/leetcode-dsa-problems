@@ -5,7 +5,6 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             int digitCount = 0;
             while (nums[i] > 0) {
-                int rem = nums[i] % 10;
                 digitCount++;
                 nums[i] = nums[i] / 10;                
             }
