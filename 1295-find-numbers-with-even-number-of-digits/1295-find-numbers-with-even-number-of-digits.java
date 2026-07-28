@@ -1,17 +1,19 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int evenD =0;
-        for (int num : nums) {
-            int count = 0;
-            while(num > 0){
-                int rem = num%10;
-                num = num/10;
-                count++;
+         int evenNo = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            int digitCount = 0;
+            while (nums[i] > 0) {
+                int rem = nums[i] % 10;
+                digitCount++;
+                nums[i] = nums[i] / 10;                
             }
-            if(count%2 == 0){
-                evenD++;
+            if(digitCount % 2 == 0){
+                evenNo++;
             }
         }
-        return evenD;  
+        return evenNo;
+        
     }
 }
