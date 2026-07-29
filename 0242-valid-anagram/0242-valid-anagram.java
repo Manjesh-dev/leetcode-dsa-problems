@@ -1,44 +1,21 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        HashMap<Character, Integer> map = new HashMap<>();
-        // int count = 0;
-        // int n = 0;
-        // if(s.length() > t.length()){
-        //     n = s.length();
-        // }else{
-        //     n = t.length();
-        // }
+        HashMap<Character, Integer> map1 = new HashMap<>();
+        HashMap<Character, Integer> map2 = new HashMap<>();
         
-        // for (int i = 0; i < s.length(); i++) {
-        //     map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0)+1);
-        // }
-
-        // for (int i = 0; i < t.length(); i++) {
-        //     if(map.getOrDefault(t.charAt(i) , 0)> 0){
-        //         map.put(t.charAt(i), map.get(t.charAt(i))-1);
-        //         count++;
-        //     }
-        // }
-        // if(n == count ){
-        //     return true;
-        // }
-        // return false;
-
-        if (s.length() != t.length()) {
+        if(s.length() != t.length()){
             return false;
         }
+
         for (int i = 0; i < s.length(); i++) {
-            map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) + 1);
+            map1.put(s.charAt(i), map1.getOrDefault(s.charAt(i), 0) + 1);
+            map2.put(t.charAt(i), map2.getOrDefault(t.charAt(i), 0) + 1);
+        }
+        if (map1.equals(map2)) {
+            return true;
         }
 
-        for (int i = 0; i < t.length(); i++) {
-            if (map.getOrDefault(t.charAt(i), 0) == 0) {
-                return false;
-            }else{
-                map.put(t.charAt(i), map.get(t.charAt(i)) - 1);
-            }
-        }
+        return false;
         
-        return true;
     }
 }
