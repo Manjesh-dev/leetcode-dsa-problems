@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1004-max-consecutive-ones-iii) |
 ## String
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
