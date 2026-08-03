@@ -21,7 +21,7 @@ public class Solution extends GuessGame {
                 return guess;
             }
             if (res == -1) {   
-                r = guess-1;
+                r = guess;
             }else{
                 l = guess+1;
             }
