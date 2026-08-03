@@ -13,17 +13,17 @@ public class Solution extends GuessGame {
         int r = n;
 
         while (l<=r) {        
-            int mid = l +(r-l)/2;
+            int guess = l +(r-l)/2;
 
-            int res = guess(mid);
+            int res = guess(guess);
 
             if(res == 0){     
-                return mid;
+                return guess;
             }
             if (res == -1) {   
-                r = mid-1;
+                r = guess-1;
             }else{
-                l = mid+1;
+                l = guess+1;
             }
         }
         return -1;       
