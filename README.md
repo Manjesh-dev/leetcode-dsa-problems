@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0704-binary-search) |
@@ -152,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
