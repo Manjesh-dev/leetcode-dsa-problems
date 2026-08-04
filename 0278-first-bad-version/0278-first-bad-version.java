@@ -18,6 +18,6 @@ public class Solution extends VersionControl {
             }
             
         }
-        return r+1;
+        return l;
     }
 }
