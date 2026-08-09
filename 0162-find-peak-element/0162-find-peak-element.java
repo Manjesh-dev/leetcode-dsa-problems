@@ -6,8 +6,8 @@ class Solution {
         while (l<r) {
             int mid = l + (r-l)/2;
 
-            if (nums[mid]>nums[mid+1]) {
-                r = mid;
+            if (nums[mid]<nums[mid+1]) {
+                r = mid-1;
             }else{
                 l = mid+1;
             }
