@@ -11,11 +11,16 @@ class Solution {
         // return nums.length;
 
         int oldSum = 0;
-        for(int i = 0; i<nums.length; i++){
-            oldSum += nums[i];
+        int newSum = 0;
+        for(int i = 0; i<=nums.length; i++){
+            if(i < nums.length){
+                oldSum += nums[i];
+            }
+            newSum += i;
+            
         }
 
-        int newSum = (nums.length*(nums.length+1))/2;
+        // int newSum = (nums.length*(nums.length+1))/2;
 
         return newSum-oldSum;
     }
