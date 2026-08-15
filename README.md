@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0485-max-consecutive-ones) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1009-complement-of-base-10-integer) |
 ## Binary Search
 |  |
@@ -119,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0367-valid-perfect-square) |
