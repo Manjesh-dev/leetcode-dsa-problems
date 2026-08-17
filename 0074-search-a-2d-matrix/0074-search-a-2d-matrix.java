@@ -6,7 +6,6 @@ class Solution {
         while (l <= r) {
             int mid1 = l + (r-l)/2;
 
-
             int m = 0;
             int n = matrix[mid1].length-1;
             while (m <= n) {
@@ -27,7 +26,6 @@ class Solution {
                 l = mid1 + 1;
             }
         }
-        return false;
-        
+        return false; 
     }
 }
