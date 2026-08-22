@@ -6,7 +6,7 @@ class Solution {
 
         for (int i = 0; i < strs[0].length(); i++) {
             for (int k = 1; k < strs.length; k++) {
-                if (i >= strs[k].length() ||  strs[k].charAt(i) != strs[0].charAt(i)) {
+                if (i >= strs[k].length() || strs[k].charAt(i) != strs[0].charAt(i)) {
                     return strs[0].substring(0, i);
                 }
             }  
