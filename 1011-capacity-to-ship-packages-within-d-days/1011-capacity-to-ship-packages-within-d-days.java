@@ -7,7 +7,7 @@ class Solution {
             l = Math.max(l, weights[i]);
         }
         
-        while (l<=r) {
+        while (l <= r) {
             int mid = l + (r-l)/2;
             int d = 1;
             int sum = 0;
@@ -25,6 +25,5 @@ class Solution {
             }
         }
         return l;
-        
     }
 }
