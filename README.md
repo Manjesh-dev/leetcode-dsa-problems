@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3870-count-commas-in-range](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
