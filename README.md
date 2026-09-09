@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/3903-smallest-stable-index-i) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/2390-removing-stars-from-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
