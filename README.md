@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0074-search-a-2d-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0566-reshape-the-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
