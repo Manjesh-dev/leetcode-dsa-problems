@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0904-fruit-into-baskets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
