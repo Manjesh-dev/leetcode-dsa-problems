@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/2390-removing-stars-from-a-string) |
@@ -239,11 +241,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0566-reshape-the-matrix) |
+| [0844-backspace-string-compare](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Design
