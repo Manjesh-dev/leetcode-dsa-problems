@@ -16,16 +16,16 @@ class Solution {
                 c--;
             }
         }
-        int c1 = 0;
+        c = 0;
         for (int i = t.length() - 1; i >= 0; i--) {
             if (t.charAt(i) == '#') {
-                c1++;
+                c++;
             }
-            if (c1 == 0) {
+            if (c == 0) {
                 t1.append(t.charAt(i));
             }
-            if (c1 > 0 && t.charAt(i) != '#') {
-                c1--;
+            if (c > 0 && t.charAt(i) != '#') {
+                c--;
             }
         }
         if (s1.length() != t1.length()) {
