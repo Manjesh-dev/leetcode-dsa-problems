@@ -1,28 +1,41 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
-        Stack<Character> st1 = new Stack<>();
-        Stack<Character> st2 = new Stack<>();
+        StringBuilder s1 = new StringBuilder();
+        StringBuilder t1 = new StringBuilder();
 
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == '#' && !st1.empty()) {
-                st1.pop();
+        int c = 0;
+
+        for (int i = s.length() - 1; i >= 0; i--) {
+            if (s.charAt(i) == '#') {
+                c++;
             }
-            if (s.charAt(i) != '#') {
-                st1.push(s.charAt(i));
-            }   
-        }
-        for (int i = 0; i < t.length(); i++) {
-            if (t.charAt(i) == '#' && !st2.empty()) {
-                st2.pop();
+            if (c == 0) {
+                s1.append(s.charAt(i));
             }
-            if (t.charAt(i) != '#') {
-                
-                st2.push(t.charAt(i));
-            } 
+            if (c > 0 && s.charAt(i) != '#') {
+                c--;
+            }
         }
-        if (st1.equals(st2)) {
-            return true;
+        int c1 = 0;
+        for (int i = t.length() - 1; i >= 0; i--) {
+            if (t.charAt(i) == '#') {
+                c1++;
+            }
+            if (c1 == 0) {
+                t1.append(t.charAt(i));
+            }
+            if (c1 > 0 && t.charAt(i) != '#') {
+                c1--;
+            }
         }
-        return false;
+        if (s1.length() != t1.length()) {
+            return false;
+        }
+        for (int i = 0; i < s1.length(); i++) {
+            if (s1.charAt(i) != t1.charAt(i)) {
+                return false;
+            }
+        }
+        return true;
     }
 }
