@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
