@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1089-duplicate-zeros](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1572-matrix-diagonal-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
