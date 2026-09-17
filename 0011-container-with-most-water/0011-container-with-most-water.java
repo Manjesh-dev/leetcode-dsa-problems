@@ -1,19 +1,5 @@
 class Solution {
     public int maxArea(int[] height) {
-
-        // brute force
-        // int maxA = 0;
-
-        // for (int i = 0; i < height.length; i++) {
-        //     int waterLavel = 0;
-        //     for (int j = i; j < height.length; j++) {
-        //         waterLavel = Math.min(height[i], height[j]);
-        //         int width = j-i;
-        //         int area = waterLavel*width;
-        //         maxA = Math.max(maxA, area);
-        //     }
-        // }
-
         int maxA = 0;
         int l = 0;
         int r = height.length-1;
@@ -29,6 +15,5 @@ class Solution {
 
         }
         return maxA;
-        
     }
 }
