@@ -25,6 +25,6 @@ class Solution {
         if(c!=0){
             ans.append(c);
         }
-        return new String(ans.reverse());
+        return  ans.reverse().toString();
     }
 }
