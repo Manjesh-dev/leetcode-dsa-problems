@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0520-detect-capital) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0867-transpose-matrix) |
