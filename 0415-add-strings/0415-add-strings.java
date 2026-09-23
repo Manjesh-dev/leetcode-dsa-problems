@@ -18,11 +18,9 @@ class Solution {
             int sum = d + d2 + c;
             c = 0;
             if(sum > 9){
-                while (sum > 1){
-                    int rem = sum %10;
-                    ans.append(rem);
-                    sum /= 10;
-                }
+                int rem = sum % 10;
+                sum /= 10;
+                ans.append(rem);
                 c = sum;
             }else{
                 ans.append(sum);
