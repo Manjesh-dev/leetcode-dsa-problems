@@ -6,7 +6,7 @@ class Solution {
         int r = num2.length()-1;
 
         int c=0;
-        while (l>=0 || r>=0) {
+        while (l>=0 || r>=0 || c!=0) {
             int d = 0;
             int d2 = 0;
             if(l>=0){
@@ -22,9 +22,9 @@ class Solution {
             l--;
             r--;   
         }
-        if(c!=0){
-            ans.append(c);
-        }
+        // if(c!=0){
+        //     ans.append(c);
+        // }
         return  ans.reverse().toString();
     }
 }
