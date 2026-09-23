@@ -17,10 +17,8 @@ class Solution {
             }
             int sum = d + d2 + c;
             c = 0;
-            int rem = sum % 10;
-            sum /= 10;
-            ans.append(rem);
-            c= sum;
+            ans.append(sum % 10);
+            c = sum/10;
             l--;
             r--;   
         }
