@@ -17,14 +17,10 @@ class Solution {
             }
             int sum = d + d2 + c;
             c = 0;
-            if(sum > 9){
-                int rem = sum % 10;
-                sum /= 10;
-                ans.append(rem);
-                c = sum;
-            }else{
-                ans.append(sum);
-            }
+            int rem = sum % 10;
+            sum /= 10;
+            ans.append(rem);
+            c= sum;
             l--;
             r--;   
         }
