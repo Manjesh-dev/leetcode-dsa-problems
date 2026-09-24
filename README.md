@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1672-richest-customer-wealth) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/3904-smallest-stable-index-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
