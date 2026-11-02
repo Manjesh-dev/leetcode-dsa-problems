@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Manjesh-dev/leetcode-dsa-problems/tree/master/2390-removing-stars-from-a-string) |
